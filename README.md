@@ -1,3 +1,3 @@
-# machine-learning-data-analytics
+# machine learning
 
-coding exercises of the lecture machine learning and data analytics
+coding exercises
