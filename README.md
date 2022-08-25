@@ -1,3 +1,3 @@
-# machine learning
+# machine learning exercise 
 
 coding exercises
